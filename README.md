@@ -1,1 +1,4 @@
+This project provides a comprehensive assessment of workforce performance by comparing planned hours, worked hours, and identifying shortfalls across operational periods. The analysis evaluates how variances in attendance and productivity impact labour costs, including hourly rates, allocated budgets, overtime earnings, and actual income generated per hour worked.
+The project also quantifies the financial impact of unworked hours, highlighting where money was lost due to shortfalls and under‑utilisation of scheduled labour. Insights from this analysis support better workforce planning, improved budgeting accuracy, and more efficient allocation of labour resources.
+
 <img width="1316" height="739" alt="image" src="https://github.com/user-attachments/assets/03065758-7cba-4e2b-be21-8d521b2e3b68" />
